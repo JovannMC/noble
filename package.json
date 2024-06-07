@@ -38,7 +38,7 @@
     "debug": "^4.3.4",
     "napi-thread-safe-callback": "^0.0.6",
     "node-addon-api": "^4.3.0",
-    "node-gyp-build": "^4.5.0"
+    "node-gyp-build": "^4.8.0"
   },
   "optionalDependencies": {
     "@abandonware/bluetooth-hci-socket": "^0.5.3-11"
